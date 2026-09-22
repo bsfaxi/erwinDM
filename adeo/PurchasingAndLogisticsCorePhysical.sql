@@ -1,8 +1,8 @@
 -- ---------------------------------------------------------------
 -- erwin Data Modeler — QDM model artifact
 -- Mart-Path: Mart://Mart/Product Digital Platform/Product And Pricing Domain/ABB Purchase Orders Management/PurchasingAndLogisticsCorePhysical
--- Mart-Version: 1
--- Mart-Full-Path: Mart://Mart/Product Digital Platform/Product And Pricing Domain/ABB Purchase Orders Management/PurchasingAndLogisticsCorePhysical : v1
+-- Mart-Version: 2
+-- Mart-Full-Path: Mart://Mart/Product Digital Platform/Product And Pricing Domain/ABB Purchase Orders Management/PurchasingAndLogisticsCorePhysical : v2
 -- Model-Name: PurchasingAndLogisticsCorePhysical
 -- Model-Long-Id: {E694D3B2-FF9C-4022-B99B-6EFB3EAF843A}+00000000
 -- Catalog-Id: e694d3b2-ff9c-4022-b99b-6efb3eaf843a
