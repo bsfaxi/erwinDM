@@ -50,7 +50,7 @@ OPTIONS (
 -- Create table `PurchaseOrdersManagement`
 CREATE TABLE `PurchaseOrdersManagement` (
   `PurchaseOrdersManagementId` INT64 PRIMARY KEY NOT ENFORCED NOT NULL OPTIONS (description = "Primary key for the purchase orders management record."),
-  `PurchaseOrderNumber` STRING NOT NULL OPTIONS (description = "Identifier of the managed purchase order."),
+  `PurchaseOrderNumber` NUMERIC NOT NULL OPTIONS (description = "Identifier of the managed purchase order."),
   `PurchaseOrderStatus` STRING NOT NULL OPTIONS (description = "Status of the purchase order (e.g., Open, Closed, Cancelled)."),
   `OrderDateUtc` TIMESTAMP NOT NULL OPTIONS (description = "UTC timestamp when the purchase order was created."),
   `ExpectedDeliveryDateUtc` TIMESTAMP OPTIONS (description = "UTC timestamp when the delivery of the purchase order is expected."),
